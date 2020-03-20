@@ -1,0 +1,32 @@
+{
+  "name": "get-city-boundaries",
+  "version": "1.0.0",
+  "description": "Get city boundaries from OpenStreetMap using Nominatim as GeoJSON",
+  "author": "Stepan Kuzmin <to.stepan.kuzmin@gmail.com> (stepankuzmin.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/stepankuzmin/get-city-boundaries#readme",
+  "bugs": {
+    "url": "https://github.com/stepankuzmin/get-city-boundaries/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepankuzmin/get-city-boundaries.git"
+  },
+  "main": "getCityBoundaries.js",
+  "bin": {
+    "get-city-boundaries": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "2.6.0"
+  },
+  "keywords": [
+    "OpenStreetMap",
+    "Nominatim",
+    "GeoJSON",
+    "boundaries",
+    "city boundaries"
+  ]
+}
