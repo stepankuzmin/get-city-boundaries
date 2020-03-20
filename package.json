@@ -1,6 +1,6 @@
 {
   "name": "get-city-boundaries",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get city boundaries from OpenStreetMap using Nominatim as GeoJSON",
   "author": "Stepan Kuzmin <to.stepan.kuzmin@gmail.com> (stepankuzmin.com)",
   "license": "MIT",
